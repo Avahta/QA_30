@@ -1,0 +1,18 @@
+BugReport
+        ID: 
+        Title:
+        Project:
+        Pre-conditions:
+        Steps to reproduce  
+        Enviroment        
+        Component:
+        Build:
+        Actual result:
+        Expected result:
+        Severity:
+        Priority:
+        Status:
+        Author:
+        Sign to:
+        Attachments:
+
